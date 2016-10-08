@@ -1,0 +1,5 @@
+C:\Projects\CSharp\15Puzzle\15Puzzle\bin\Debug\15Puzzle.exe.config
+C:\Projects\CSharp\15Puzzle\15Puzzle\bin\Debug\15Puzzle.exe
+C:\Projects\CSharp\15Puzzle\15Puzzle\bin\Debug\15Puzzle.pdb
+C:\Projects\CSharp\15Puzzle\15Puzzle\obj\Debug\15Puzzle.exe
+C:\Projects\CSharp\15Puzzle\15Puzzle\obj\Debug\15Puzzle.pdb

@@ -1,0 +1,9 @@
+C:\Projects\CSharp\15Puzzle\TestGame\bin\Debug\TestGame.dll
+C:\Projects\CSharp\15Puzzle\TestGame\bin\Debug\TestGame.pdb
+C:\Projects\CSharp\15Puzzle\TestGame\bin\Debug\15Puzzle.exe
+C:\Projects\CSharp\15Puzzle\TestGame\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\CSharp\15Puzzle\TestGame\bin\Debug\15Puzzle.pdb
+C:\Projects\CSharp\15Puzzle\TestGame\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Projects\CSharp\15Puzzle\TestGame\obj\Debug\15Puzzle.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\CSharp\15Puzzle\TestGame\obj\Debug\TestGame.dll
+C:\Projects\CSharp\15Puzzle\TestGame\obj\Debug\TestGame.pdb
