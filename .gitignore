@@ -46,7 +46,12 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-.bin
-.obj
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+
 
 
